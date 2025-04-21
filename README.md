@@ -1,8 +1,5 @@
-# 420GrowTracker
-AI-powered Cannabis Grow Tracker with Smart Recommendations and Feedback.
-
-
 # 🌱 Cannabis Grow Tracker
+AI-powered Cannabis Grow Tracker with Smart Recommendations and Feedback.
 
 A desktop GUI application built with Python and Tkinter to help cannabis cultivators track and compare recommended vs. actual grow data weekly. Ideal for coco and soil growers using the Advanced Nutrients Sensi Grow & Bloom line.
 
